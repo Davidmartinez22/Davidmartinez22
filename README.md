@@ -23,7 +23,7 @@ Aprendiendo sobre ciberseguridad<br/>
 <td width="50%">
 <h3 align="center">Instalacion Xampp en Windows y Linux</h3>
 <div align="center">
-<a href="https://github.com/Davidmartinez22/IAW/blob/main/UT1/T3/David_Martinez_Martinez_IAW_UT0_T3.pdf" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSycxcFfXt7-FC6KEeLi8Y1sVD-kCE4YPY-zA&s" width="400" alt="xampp"></a>
+<a href="https://github.com/Davidmartinez22/IAW/blob/main/UT1/T3/David_Martinez_Martinez_IAW_UT0_T3.pdf" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSycxcFfXt7-FC6KEeLi8Y1sVD-kCE4YPY-zA&s" width="300" alt="xampp"></a>
 <p>Aprende a instalar el servidor de aplicaciones web <br> xampp en windows y ubuntu.</p>
 </div>
 
@@ -42,7 +42,7 @@ Aprendiendo sobre ciberseguridad<br/>
 <td width="50%">
 <h3 align="center">Recopilacion Pasiva de informacion<br> usando google hacking y shodan</h3>
 <div align="center">
-<a href="https://github.com/Davidmartinez22/SAD/blob/main/UT2/T0/David_Martinez_Martinez_SAD_UT2_T0.pdf" target="_blank"><img src="https://netcloudengineering.com/wp-content/uploads/2019/04/shodan-seguridad-internet.jpg" width="400" alt="shodan"></a>
+<a href="https://github.com/Davidmartinez22/SAD/blob/main/UT2/T0/David_Martinez_Martinez_SAD_UT2_T0.pdf" target="_blank"><img src="https://netcloudengineering.com/wp-content/uploads/2019/04/shodan-seguridad-internet.jpg" width="300" alt="shodan"></a>
 <p>Guia para aprender a recopilar informacion <br> usando google hacking, shodan y el buscador de google</p>
 </div>
                                                                                       
