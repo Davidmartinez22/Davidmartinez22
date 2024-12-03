@@ -49,7 +49,7 @@ Aprendiendo sobre ciberseguridad<br/>
 </td>       
 
 <td width="50%">
-<h3 align="center">Verificacion de identidad de<br> archivos mediante funciones hash</h3>
+<h3 align="center">Verificacion de identidad de archivos<br> mediante funciones hash</h3>
 <div align="center">
 <a href="https://github.com/Davidmartinez22/SAD/blob/main/UT3/T0/David_Martinez_Martinez_SAD_UT3_T0.pdf" target="_blank"><img src="https://media.kasperskydaily.com/wp-content/uploads/sites/87/2014/04/05212201/hash.jpg" width="300" alt="hash"></a>
 
