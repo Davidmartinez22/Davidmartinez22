@@ -1,4 +1,6 @@
-David Martínez<br/> 
+<div align="center">
+<h1 align="center">Hola, soy David Martínez</a> 👋</h1>
+</div>
 Administracion de Sistemas Informaticos en Red
 
 👩🏻‍💻 Apasionado de la informatica<br/>
