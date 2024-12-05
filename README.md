@@ -20,8 +20,8 @@ Aprendiendo sobre ciberseguridad<br/>
 
 
 ## Mis Proyectos
-<table>
-<tr>
+<table align="center">
+<tr align="center">
 <td width="50%">
 <h3 align="center">Instalacion Xampp en Windows y Linux</h3>
 <div align="center">
@@ -39,8 +39,8 @@ Aprendiendo sobre ciberseguridad<br/>
 </div>
 <br>
 
-<table>
-<tr>
+<table align="center">
+<tr align="center">
 <td width="50%">
 <h3 align="center">Recopilacion Pasiva de informacion<br> usando google hacking y shodan</h3>
 <div align="center">
