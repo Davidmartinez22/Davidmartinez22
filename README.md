@@ -5,7 +5,7 @@ Administracion de Sistemas Informaticos en Red
 
 👩🏻‍💻 Apasionado de la informatica<br/>
 👩🏻‍🎓 Estudiando Grado Supereior ASIR<br/>
-Aprendiendo sobre ciberseguridad<br/>
+📚 Siempre con ganas de aprender y formarme<br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidmartinez22)](https://github.com/anuraghazra/github-readme-stats)<br/>
