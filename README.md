@@ -61,6 +61,4 @@ Aprendiendo sobre ciberseguridad<br/>
 </table>                                                                                 
 </div>
 
-# Contacto
-
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScePJCEBV3O1SQEGvOw8MOvwsbIBPmO-k5kZKYuHStHEPYF_Q/viewform?embedded=true" width="640" height="721" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
